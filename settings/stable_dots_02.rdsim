@@ -1,0 +1,7 @@
+[General]
+distance=@Variant(\0\0\0\x87?\xc0\0\0)
+timestep=@Variant(\0\0\0\x87@$(\xf6)
+du=@Variant(\0\0\0\x87>!\xca\xc1)
+dv="@Variant(\0\0\0\x87=\xa1\xca\xc1)"
+k="@Variant(\0\0\0\x87=q\xa9\xfc)"
+f=@Variant(\0\0\0\x87<\xdd/\x1b)

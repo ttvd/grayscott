@@ -1,0 +1,7 @@
+[General]
+distance=@Variant(\0\0\0\x87?\xc0\0\0)
+timestep=@Variant(\0\0\0\x87@ \0\0)
+du=@Variant(\0\0\0\x87>L\xcc\xcd)
+dv="@Variant(\0\0\0\x87=\xb8Q\xec)"
+k="@Variant(\0\0\0\x87=L\xcc\xcd)"
+f=@Variant(\0\0\0\x87<e`B)

@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource prefix="/">
+ 	    <file>shaders/greyscott.vert</file>
+        <file>shaders/greyscott.frag</file>
+        <file>shaders/render2d.vert</file>
+        <file>shaders/render2d.frag</file>
+        <file>shaders/render3d.vert</file>
+        <file>shaders/render3d.frag</file>
+ </qresource>
+ </RCC>
+ 

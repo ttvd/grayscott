@@ -1,0 +1,41 @@
+# Ignore .DS_Store mac files.
+.DS_Store
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.ipch
+*.user
+_ReSharper.*
+*.pdb
+*.exe
+*.ilk
+*.pdb
+*.log
+*.dll
+*.exp
+*.sublime-project
+debug
+release
+Makefile
+*.ib_pdb_index
+*.idb
+temp
+*.svnprops
+*.vcxproj
+*.vcxproj.filters
+*.sln
+
+# ignore xcode generated stuff.
+moc_*
+qrc_*
+bin/*
+build/*
+Info.plist
+
+# Ignore svn stuff.
+.svn
+
+Screenshots/*
+logo_work/*
+redist/*
