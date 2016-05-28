@@ -42,17 +42,17 @@
 
 #include "ui_render.h"
 
-#include <QtGui/QDockWidget>
-#include <QtGui/QFileDialog>
-#include <QtGui/QMouseEvent>
+#include <QDockWidget>
+#include <QFileDialog>
+#include <QMouseEvent>
 
-#include <QtOpenGL/QGLShaderProgram>
+#include <QGLShaderProgram>
 
-#include <QtCore/QTime>
-#include <QtCore/QTimer>
-#include <QtCore/QSettings>
+#include <QTime>
+#include <QTimer>
+#include <QSettings>
 
-#include <QtCore/QDebug>
+#include <QDebug>
 
 #if defined(Q_OS_WIN)
 	#include <GL/glut.h>

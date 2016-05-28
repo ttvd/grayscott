@@ -36,8 +36,8 @@
  *
  */
 
-#include <QtGui/QApplication>
-#include <QtCore/QList>
+#include <QApplication>
+#include <QList>
 
 #include <window.h>
 

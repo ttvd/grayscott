@@ -1,7 +1,7 @@
 #if !defined(COMP_5201_PROJECT_TABWIDGET_H)
 #define COMP_5201_PROJECT_TABWIDGET_H
 
-#include <QtGui/QTabWidget>
+#include <QTabWidget>
 
 namespace Comp5201Project
 {

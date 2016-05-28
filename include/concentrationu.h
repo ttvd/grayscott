@@ -39,11 +39,11 @@
 #if !defined(COMP_5201_PROJECT_CONCENTRATIONU_H)
 #define COMP_5201_PROJECT_CONCENTRATIONU_H
 
-#include <QtGui/QWidget>
+#include <QWidget>
 
-#include <QtGui/QColor>
-#include <QtGui/QImage>
-#include <QtCore/QPoint>
+#include <QColor>
+#include <QImage>
+#include <QPoint>
 
 class QMouseEvent;
 class QPaintEvent;

@@ -39,14 +39,14 @@
 #include <concentrationv.h>
 #include <window.h>
 
-#include <QtGui/QMouseEvent>
-#include <QtGui/QPaintEvent>
+#include <QMouseEvent>
+#include <QPaintEvent>
 
-#include <QtGui/QPainter>
-#include <QtGui/QDockWidget>
-#include <QtGui/QFileDialog>
+#include <QPainter>
+#include <QDockWidget>
+#include <QFileDialog>
 
-#include <QtCore/QDebug>
+#include <QDebug>
 
 #include <ctime>
 

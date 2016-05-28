@@ -43,11 +43,11 @@
 #include <concentrationu.h>
 #include <render.h>
 
-#include <QtGui/QDockWidget>
-#include <QtGui/QTabWidget>
-#include <QtGui/QSizePolicy>
+#include <QDockWidget>
+#include <QTabWidget>
+#include <QSizePolicy>
 
-#include <QtOpenGL/QGLFormat>
+#include <QGLFormat>
 
 namespace Comp5201Project
 {

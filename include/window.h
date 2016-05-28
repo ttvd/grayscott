@@ -39,7 +39,7 @@
 #if !defined(COMP_5201_PROJECT_WINDOW_H)
 #define COMP_5201_PROJECT_WINDOW_H
 
-#include <QtGui/QMainWindow>
+#include <QMainWindow>
 
 class QDockWidget;
 class QTabWidget;
